@@ -1,0 +1,7 @@
+{
+
+    "mongoURI": "mongodb+srv://Vik:Tyagi135@learning.gdkrq.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+  
+  
+  }
